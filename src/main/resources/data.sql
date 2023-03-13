@@ -1,0 +1,11 @@
+INSERT INTO team ( studentName, gender, standard) VALUES ('Alexander', 'Male',5);
+INSERT INTO team (studentName, gender, standard) VALUES ('Benjamin','Male', 3);
+INSERT INTO team ( studentName, gender, standard) VALUES ('Michael','Male', 18);
+INSERT INTO team ( studentName, gender, standard) VALUES ('William','Female', 45);
+INSERT INTO team ( studentName, gender, standard) VALUES ('Joshua','Female', 19);
+INSERT INTO team ( studentName, gender, standard) VALUES ('Daniel','Male', 10);
+INSERT INTO team (studentName, gender, standard) VALUES ('Matthew','Female', 34);
+INSERT INTO team ( studentName, gender, standard) VALUES ('Samuel','Female', 17);
+INSERT INTO team ( studentName, gender, standard) VALUES ('John', 'Male',1);
+INSERT INTO team (studentName, gender, standard) VALUES ('Earnest','Male', 2);
+INSERT INTO team ( studentName, gender, standard) VALUES ('Bob', 'Male',25);
